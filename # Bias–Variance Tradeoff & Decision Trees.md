@@ -120,9 +120,9 @@ Entropy = -Σ(pᵢ log₂ pᵢ)
 * Information-theoretic foundation
 * Slightly slower but more expressive
 
-more uncertainity more entropy
-min entropy = 0 all data are of same type
-max entropy = 1 half data is of one type other half is of second type
+* more uncertainity more entropy
+* min entropy = 0 all data are of same type
+* max entropy = 1 half data is of one type other half is of second type
 
 ---
 
