@@ -106,6 +106,11 @@ Gini = 1 - Σ(pᵢ²)
 * Measures class impurity
 * Penalizes mixed nodes
 * Computationally efficient
+* more uncertainity more gini
+* min entropy = 0 all data are of same type
+* max entropy = 0.5 half data is of one type other half is of second type
+* faster than entropy 
+
 
 ---
 
@@ -123,6 +128,7 @@ Entropy = -Σ(pᵢ log₂ pᵢ)
 * more uncertainity more entropy
 * min entropy = 0 all data are of same type
 * max entropy = 1 half data is of one type other half is of second type
+* slower but in some cases gives balanced trees
 
 ---
 
